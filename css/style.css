@@ -1,16 +1,18 @@
-body, html {
+body, html, iframe {
   font-family: 'Krub', sans-serif;
   margin: 0;
   padding: 0;
+  height:100%;
   text-align: center;
   color:#000000;
-  background-color:#FFF;
-}
-.ifram{
-  width: 100%;
-  min-height: 800px;
+  background-color:#000;
 }
 
+iframe {
+  display:block;
+  width:100%;
+  border:none;
+}
 /************ CONTAINERS ****************/
 .container {
   margin: 0 auto;

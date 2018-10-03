@@ -10,6 +10,6 @@
   <script src="js/jquery-3.3.1.min.js"/></script>
 </head>
 <body>
-  <iframe src="pdfjs/web/viewer.html" class="ifram"></iframe>
+  <iframe src="pdfjs/web/viewer.html"></iframe>
 </body>
 </html>
